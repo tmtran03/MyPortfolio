@@ -1,17 +1,9 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ title: B.S. Computer Science Student, William & Mary
+  from: 2022
+  to: 2026
+  description: Studying core computer science concepts including data structures, algorithms, databases, and software development. Completed coursework involving full-stack development and AI-related topics.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Software Development Intern, Berkeley Alternative Markets Tech, US
+  from: June 2025
+  to: Aug 2025
+  description: Worked on migrating microservices from Spring Boot to Node.js using JavaScript, Jenkins, and Azure. Focused on building REST APIs and improving application performance.
