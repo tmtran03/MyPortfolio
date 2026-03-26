@@ -1,9 +1,14 @@
- title: B.S. Computer Science Student, William & Mary
+- title: B.S. Computer Science Student, William & Mary
   from: 2022
   to: 2026
   description: Studying core computer science concepts including data structures, algorithms, databases, and software development. Completed coursework involving full-stack development and AI-related topics.
 
-- title: Software Development Intern, Berkeley Alternative Markets Tech, US
-  from: June 2025
-  to: Aug 2025
-  description: Worked on migrating microservices from Spring Boot to Node.js using JavaScript, Jenkins, and Azure. Focused on building REST APIs and improving application performance.
+- title: Software Development Intern (Project-Based)
+  from: 2025
+  to: present
+  description: Worked on developing web applications using JavaScript and Node.js. Focused on building REST APIs and improving application performance.
+
+- title: Academic Projects & Self-Study
+  from: 2023
+  to: 2024
+  description: Built full-stack applications and explored topics in AI, databases, and software engineering through coursework and independent projects.
